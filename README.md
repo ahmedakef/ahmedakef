@@ -5,12 +5,11 @@
 -->
 
 - 🔭 I’m currently working as software engineer @instabug
+- 🤔 I am interested in system programming, web development and infrastructure engineering
 - 🌱 I have graduated from Facult of Engineering / computer engineering @ Mansoura University
-- 🤔 I’m looking for help with how to start backend development
 - ⚡ Fun fact: I like ice cream
 
 
-[![Years Badge](https://badges.pufler.dev/years/ahmedakef)](https://badges.pufler.dev)
 ![Golang](https://img.shields.io/badge/-Golang-gray?style=flat-square&logo=Go)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=Ruby)
@@ -28,6 +27,6 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedakef&count_private=true&show_icons=true&include_all_commits=true&theme=light)
+[![ahmedakef's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedakef&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedakef&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedakef)](https://github.com/anuraghazra/github-readme-stats)
