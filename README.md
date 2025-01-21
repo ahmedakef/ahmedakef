@@ -4,12 +4,15 @@
 **ahmedakef/ahmedakef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working as software engineer @instabug
+- 🔭 working on distributed things in the platform engineering team @Uber .
+- devlopeed
+    - [gotutor](https://github.com/ahmedakef/gotutor): Visualize Go code execution.
+    - [goshell](https://github.com/ahmedakef/goshell): a REPL shell for golang.
+    - [summarize](https://github.com/ahmedakef/summarize): gives you summary about stream of numbers and updates the summary every specified interval.
 - website: https://ahmedakef.github.io/
-- 🤔 I am interested in system programming, web development and infrastructure engineering
+- 🤔 I am interested in system programming, web development and infrastructure engineering.
 - 🌱 I have graduated from Facult of Engineering / computer engineering @ Mansoura University
-- ⚡ Fun fact: I like ice cream
-
+- ⚡ Fun fact: I love sailing.
 
 ![Golang](https://img.shields.io/badge/-Golang-gray?style=flat-square&logo=Go)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -25,6 +28,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-gray?style=flat-square&logo=kubernetes)
+![Elm](https://img.shields.io/badge/Elm-1293D8?logo=elm&logoColor=fff)
 
 
 
