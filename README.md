@@ -5,7 +5,7 @@
 -->
 
 - 🔭 working on distributed things in the platform engineering team @Uber .
-- devlopeed
+- devloped:
     - [gotutor](https://github.com/ahmedakef/gotutor): Visualize Go code execution.
     - [goshell](https://github.com/ahmedakef/goshell): a REPL shell for golang.
     - [summarize](https://github.com/ahmedakef/summarize): gives you summary about stream of numbers and updates the summary every specified interval.
